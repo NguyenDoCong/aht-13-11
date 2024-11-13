@@ -8,5 +8,6 @@
 ![Thuật toán tìm kiếm](https://github.com/user-attachments/assets/f4c22f3e-4408-4954-9f6a-acfa0a5fbf4f)
 
 ## Notes
+- Xử lý lỗi php: The term 'php' is not recognized as the name of a cmdlet, function, script file, or operable program.
 - Xử lý lỗi print_r
-- Xử lý lỗi php: The term 'php' is not recognized as the name of a cmdlet, function, script file, or operable program. 
+- Chia lấy phần nguyên trong php
